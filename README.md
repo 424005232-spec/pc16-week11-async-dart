@@ -1,7 +1,8 @@
 # PC16 Week 11 - Asynchronous Programming in Dart
 
 **Student Name:** Rossel S. Garlit
-**Course & Section:** BSIT 3.1 PC16 - Mobile Development with Lab  
+**Course & Section:** BSIT 3.1 
+**Subject:** PC16 - Mobile Development with Lab  
 **Term:** AY 2026-2027  
 
 ---
